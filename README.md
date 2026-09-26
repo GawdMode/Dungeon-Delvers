@@ -14,8 +14,6 @@ A Pokémon Crystal mod for gen1recomp. Explore the cave network beneath the form
 2. Place the Dungeon Delvers release ZIP in the launcher’s mods folder, or install it through the launcher. Select the mod for Pokémon Crystal and start the game.
 3. Enter the former museum in Pewter City and talk to the Delve Desk attendant. Existing development saves keep their Dungeon Delvers records; the internal mod ID remains `pewter_dungeon_dev` for that reason.
 
-Future releases are associated with [GawdMode/Dungeon-Delvers](https://github.com/GawdMode/Dungeon-Delvers) in the mod manifest so the launcher can offer updates when releases are published there.
-
 ## The delve
 
 Pay the entry fee, draft one rental partner, and descend through generated cave floors. Battle roaming Pokémon and rival Delvers, manage your limited supplies, dodge traps, mine for treasure, and reach the next stairway. You can recruit Pokémon along the way. Safe rooms provide recovery, trading, and checkpoints; extracting secures your finds. Deeper strata, guardian fights, museum exhibits, Ancient revival, and Research Point rewards extend the run.
