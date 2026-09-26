@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://gawdmode.github.io/">
+    <img src="checkoutmyothermods.png" alt="Check out all of my other Gen1Recomp mods">
+  </a>
+</p>
+
 # Dungeon Delvers
 
 A Pokémon Crystal mod for gen1recomp. Explore the cave network beneath the former Pewter Museum, excavate fossils, and bring Ancient Pokémon back to life.
