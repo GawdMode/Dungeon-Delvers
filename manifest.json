@@ -1,0 +1,28 @@
+{
+  "id": "pewter_dungeon_dev",
+  "name": "Dungeon Delvers",
+  "version": "1.0.0",
+  "author": "Jasocorp + ChatGPT",
+  "description": "Explore the Pewter Museum dungeon solo or online, excavate fossils, and revive Ancient Pokemon.",
+  "games": [
+    "crystal"
+  ],
+  "entry": "main.lua",
+  "api": 2,
+  "profile": "content",
+  "category": "Gameplay",
+  "game_version": ">=0.3.8 <1.0.0",
+  "priority": 180,
+  "dependencies": [],
+  "optional_dependencies": [
+    "cinnabar_experimental_lab",
+    "unique_menu_icons",
+    "crystal_ndex_randomizer"
+  ],
+  "conflicts": [],
+  "permissions": [
+    "engine_internals",
+    "network"
+  ],
+  "github": "GawdMode/Dungeon-Delvers"
+}
